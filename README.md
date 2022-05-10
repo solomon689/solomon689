@@ -1,17 +1,29 @@
-#👋 Introducción
+## Hola a todos, Me llamo Bastián y soy full stack developer 👋 
 
-Hola a todos soy Bastián, full stack developer de Chile. Actualmente trabajo como backend developer en appworki.
-Dentro de mi github encontrarás proyectos realizados con las siguientes tecnologías: 
+### Soy un amante de las tecnologías y el desarrollo de sistemas.
 
-- NestJs
-- NodeJs
-- Angular
-- Ionic con angular
-- HTML, CSS y JS.
+- Actualmente me encuentro trabajando en appworki, bajo el puesto de backend developer con nestJS.
+- Actualmente estoy aprendiendo sobre docker y microservicios.
+- Me gustaria aportar en proyectos que sea open source más de alguna vez.
+- Mis hobbies son programar, jugar algun que otro juego y tocar la guitarra.
 
-#Información de contacto
 
-[<a style="width: 25px; border: 1px solid black; background-color: red; color: white; padding: 10px;">linkdin</a>](https://www.linkedin.com/in/bastian-yima-developer/)
+## Información de contacto
+
+[ <img align="left" alt="Linkedin" width="64px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" title="Ir a perfil linkedin"> ][linkedin]
+</br>
+</br>
+</br>
+
+
+## Tecnologías
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,nestjs,nodejs,heroku,angular,bootstrap)](https://skills.thijs.gg)
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/bastian-yima-developer
 <!---
 solomon689/solomon689 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
