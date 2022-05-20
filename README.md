@@ -1,11 +1,11 @@
-## Hola a todos, Me llamo Bastián y soy full stack developer 👋 
+## Hola a todos, Me llamo Bastián y soy backend developer 👋 
 
 ### Soy un amante de las tecnologías y el desarrollo de sistemas.
 
 - Actualmente me encuentro trabajando en appworki, bajo el puesto de backend developer con nestJS.
 - Actualmente estoy aprendiendo sobre docker y microservicios.
 - Me gustaria aportar en proyectos que sea open source más de alguna vez.
-- Mis hobbies son programar, jugar algun que otro juego y tocar la guitarra.
+- Mis hobbies son programar, jugar y tocar la guitarra.
 
 
 ## Información de contacto
