@@ -2,7 +2,6 @@
 
 ### Soy un amante de las tecnologías y el desarrollo de sistemas.
 
-- Actualmente me encuentro trabajando en appworki, bajo el puesto de backend developer con nestJS.
 - Actualmente estoy aprendiendo sobre docker y microservicios.
 - Me gustaria aportar en proyectos que sea open source más de alguna vez.
 - Mis hobbies son programar, jugar y tocar la guitarra.
